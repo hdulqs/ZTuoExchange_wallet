@@ -41,3 +41,7 @@
 8.usdt
 
 * usdt币种RPC
+
+
+* By LvQS:20190620
+mvn install:install-file -Dfile=bitcoin-rpc-1.2.0.jar -DgroupId=com.spark.bc -DartifactId=bitcoin-rpc -Dversion=1.2.0 -Dpackaging=jar
